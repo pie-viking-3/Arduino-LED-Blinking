@@ -32,6 +32,14 @@ The program continuously performs the following sequence:
 ## Testing Status
 The program was successfully compiled/verified in Arduino IDE using the Arduino Uno board configuration.
 
+## QA Verification
+
+The Arduino LED blinking program was verified by compiling it in Arduino IDE using the Arduino Uno configuration.
+
+QA checks included LED pin configuration, blinking interval, code readability, and README documentation completeness.
+
+Physical hardware testing was not performed because a physical Arduino board was not available.
+
 Physical hardware testing was not performed because a physical Arduino board was not available.
 
 ## QA Tracking
