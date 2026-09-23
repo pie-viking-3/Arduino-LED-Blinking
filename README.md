@@ -38,7 +38,6 @@ The Arduino LED blinking program was verified by compiling it in Arduino IDE usi
 
 QA checks included LED pin configuration, blinking interval, code readability, and README documentation completeness.
 
-Physical hardware testing was not performed because a physical Arduino board was not available.
 
 Physical hardware testing was not performed because a physical Arduino board was not available.
 
